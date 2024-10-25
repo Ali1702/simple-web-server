@@ -25,7 +25,7 @@ The server should:
 
 ## Simulating Input
 
-To test various input cases, there is a simple client scrypt.
+To test various input cases, there is a simple client script.
 ## Usage and Testing
 
 1. Clone this repository and run the server.
